@@ -6,14 +6,11 @@
 <script src="{{URL::asset('assets/plugins/functions.js"')}}"></script>
 
 	 <!-- SPECIFIC SCRIPTS -->
-     <script src="{{URL::asset('assets/plugins/greensock.js"')}}"></script>
-     <script src="{{URL::asset('assets/plugins/layerslider.transitions.js"')}}"></script>
-     <script src="{{URL::asset('assets/plugins/layerslider.kreaturamedia.jquery.js"')}}"></script>
-     <script src="{{URL::asset('assets/plugins/greensock.js"')}}"></script>
-     <script src="{{URL::asset('assets/plugins/greensock.js"')}}"></script>
-     <script src="{{URL::asset('assets/plugins/greensock.js"')}}"></script>
-     <script src="{{URL::asset('assets/plugins/greensock.js"')}}"></script>
-     <script src="{{URL::asset('assets/plugins/greensock.js"')}}"></script>
+     <script src="{{URL::asset('assets/layerslider/js/greensock.js')}}"></script>
+     <script src="{{URL::asset('assets/layerslider/js/layerslider.transitions.js')}}"></script>
+     <script src="{{URL::asset('assets/layerslider/js/layerslider.kreaturamedia.jquery.js')}}"></script>
+    
+   
 
 
 
@@ -34,9 +31,16 @@
 </script>
 
  <script src="{{URL::asset('assets/plugins/jquery.cookiebar.js')}}"></script>
+ <script src="{{URL::asset('assets/plugins/lazy_load')}}"></script>
 <script>
     'use strict';
     $.cookieBar({
         fixed: true
     });
 </script>
+<script>
+    $(document).ready(function(){
+        $("img").lazy();
+    })
+</script>
+@yield('js')
