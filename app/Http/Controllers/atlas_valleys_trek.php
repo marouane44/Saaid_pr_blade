@@ -3,20 +3,17 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Http;
-use Storage;
 
-class PostController extends Controller
+class atlas_valleys_trek extends Controller
 {
-    public function index(){
-       
+    public function index($id){
+
         $posts = file_get_contents(base_path('/storage/all_hikes.json'));
         $posts = json_decode($posts, true);
+        $collection=collect($posts)->where('userId',$id);
+       // dd($collection);
         
-       $collection=collect($posts);
-     
-    
-        return view('all_hikes',[
+        return view('atlas_valleys_trek',[
 
             'uniqueUserIds'=>$collection,
           

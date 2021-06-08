@@ -18,4 +18,8 @@ Route::get('/', function () {
     
     return view('welcome');
 });
+Route::get('atlas_valleys_trek2.html/{id}', 'atlas_valleys_trek2@index')->name('atlas_valleys_trek2.html');
+
 Route::get('/all_hikes.html','PostController@index')->name('post.all_hikes');
+Route::get('atlas_valleys_trek.html/{id}', 'atlas_valleys_trek@index')->name('atlas_valleys_trek.html');
+
