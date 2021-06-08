@@ -2,84 +2,203 @@
 
 
     {
-      "userId": 1,
-      "title": "Imlil Valley Treks",
-      "title1": "Duration: 4 to 8 hours",
-      "link":"hikes_in_imlil.html",
-      "img":"assets/img/tours/imlil.jpg",
-      "body": "If you like hiking, then this side trip from Marrakech is the right thing for you. We listed here some examples of short rambles through the villages that surround Imlil."
-    },
-    
-    {
       "userId": 2,
       "title": "Valleys and Berber Villages",
       "title1": "Duration: 2 - 3 Days",
       "link":"atlas_valleys_trek.html",
       "img":"assets/img/tours/berber_villages.jpg",
-      "body": " These treks provides an excellent introduction to the high atlas mountains for the first time visitor"
-    },
-    {
-      "userId": 3,
-      "title": "Basic Mount Toubkal Climb",
-      "title1": "Duration: 2 Days",
-      "link":"2_day_toubkal_climb.html",
-      "img":"assets/img/tours/toubkal.jpg",
-      "body": "Two day basic climb from Imlil to the summit and back via the same route."
+      "body": " These treks provides an excellent introduction to the high atlas mountains for the first time visitor",
+      "__comment": "``````````````````````second page``````````````````````````````````",
+      "Label":"Atlas Valleys and Berber Villages Treks",
+      "duration":"2 to 3 Days",
+      "price":"110",
+     
+      "slider_img":[
+        "assets/img/carousel/atlas_valleys_trek_1.jpg",
+        "assets/img/carousel/atlas_valleys_trek_2.jpg",
+        "assets/img/carousel/atlas_valleys_trek_3.jpg"
+      ],
+     
+      "text":"Our basic toubkal trek 2 days is the perfect for those trekkers who have limited time to take away from home.This 2 day trekking will take you through remote Berber villages and terraced fields and experience a stunning and impressive landscapes and scenery across the High Atlas",
+    
+      
+ 
+      "divs":[
+               {
+
+                "title":"t1111",
+                "objects":[
+"<h4>Day 1: Imlil – Tizi n’tamaterte – Wanskra Village</h4><p>After breakfast we make our way towards the east winding mule tracks to the Tizi n’ Tamaterte (2,279m). Now we’ll enjoy the amazing panorama of the surrounding Atlas Mountain peaks and valleys on our way to our picnic spot on the Tizi n’Tamaterte, overlooking Jbel Oukaimeden and the beautiful encircled plateau. After lunch we set off following the path down to the Imnane Valley until our gite d’etape in Wanskra village. The journey will take about 5 to 6 hours of walk.</p>",
+"<h4>Day 2: Wanskra Village – Ikkis – Tizi n’aguersiwal – Aguersiwal – Imlil </h4><p>After breakfast, we set off down the Assif Imnane Valley, passing through several Berber hamlets and then up to the Tizi n’Ageursiwal (2,000 m). Now we will go down more winding mule tracks leading to the village of Aguersiwal, which is going to be our beautiful lunch spot. After the lunch in this wonderful area, we set off in river bed of Imlil, allowing another hour to get up the valley to Imlil. This will take about 6 hours walking.</p>"
+                ],"href":"#collapse1"
+                ,"id":"collapse1"
+
+
+
+                 },
+                 {
+
+                  "title":"t222",
+                  "objects":[
+                    "<h4>Day 1: Imlil - Tizi Mzik - Id Aissa</h4><p>Trek from Imlil valley to Id Aissa is a five hour walk. This beautiful journey takes you over Tizi M'zzik Mountain pass 2540m and down into the spectacular valley of Azzaden. After the day of trekking we will spend the night in the village of Id Aissa (gite).</p>",
+
+                    "<h4>Day 2: Id Aissa - Tiziane -Tassa Ouirgane - Ouirgane</h4><p>A downhill walk leading through the nature reserve protecting the Barbary sheep.  Our lunch will be served at a stop off en route to Tassa Ouirgane. After an hour and a half you will arrive in the centre of the city of Ouirgane. We will be travelling through fragrant olive groves and many traditional Berber villages, where you can admire the simple life of native inhabitants of this region.</p>"     
+                  
+                  ],"href":"#collapse2"
+                  ,"id":"collapse2"
+  
+  
+                   }
+      ]
+     
+
+
+
+    
+
+
+
+
     },
     {
       "userId": 4,
+
       "title": "Toubkal trek via Azzaden valley",
       "title1": "Duration: 3 Days",
-      "link":"mount_toubkal_via_azzaden_valley.html",
+      "body": "This 3 day trek will take you out of the busy Imlil Valley into the peace of the Azzaden Valley befor climbing Toubkal.",
+
+      "link":"atlas_valleys_trek2.html",
       "img":"assets/img/tours/toubkal_via_azzaden_valley.jpg",
-      "body": "This 3 day trek will take you out of the busy Imlil Valley into the peace of the Azzaden Valley befor climbing Toubkal."
+      "img_head":"assets/img/toubkal_via_azzaden.jpg",
+      "slider_img":[
+        "assets/img/carousel/toubkal_via_azzaden.jpg",
+        "assets/img/carousel/toubkal_via_azzaden_1.jpg",
+        "assets/img/carousel/toubkal_via_azzaden_2.jpg"
+      ],
+      "t1":"Mount Toubkal trek via Azzaden valley & Ighouliden waterfall",
+      "t2":"3 Days/ 2 Night",
+      "text":"The 3 day trek will take you out of the busy Imlil Valley into the peace of the Azzaden Valley, where any traffic jams are usually of the four-legged mountain goat variety. It is a picturesque valley with lush river banks. You'll pass by the waterfalls at Ighouliden and on the next day tackle a steep climb up the scree to the Aguelzim Mountain pass at 3,560m which offers stunning views over the Atlas Range. The big draw is then of course tackling Toubkal (4,165m) itself, expect an early start and sunrise over the Mountains and Sahara Desert!",
+      "price":"180",
+      "Trek Duration":"3 days",
+      "Walking_grade":"Challenging",
+      "Availability":"This trek is available from April to October If you are travelling alone please contact us as there is often the opportunity to join a group",
+      "Accommodation":"Night 1: Berber Houce.Night 2: The Mouflon or Neltner mountain refuge.*Camping is optional depending on weather.",
+      "Tour_staff":[
+       "Local Guide",
+       "Cook",
+       "Muleteer/mules to carry your kit bags",
+       "Driver"
+      ],
+      "Included_meals":[
+
+        "Breakfast: 2",
+        "Lunch: 3",
+        "Dinner: 2" 
+      ],
+      "html":[
+      "<div class=\"col-sm-12\"><h4>DAY 1: <small>Marrakech - Imlil</small></h4><p>You will be picked up from your accommodation in Marrakech at 9.00am. Your driver will take you to the starting point of your trek at Imlil (1,780m) where you will meet your guide and muleteer (about 1 ½ hour’s drive). Once you have loaded up the mules, you will begin your trek, which starts with a fairly stiff climb out of the Imlil valley, up to the Tizi n Mzik pass (2,489m), which offers dramatic mountain views. From here, the trail descends down into the spectacular Azzadene valley, known locally as the valley of colour. You will pass the summer village of Azib n’Tansoult and the pretty D’Irhouliden waterfalls, which flow year round before continuing to the Lepiney mountain refuge (3,000m) where you will be spending the night</p></div>",
+      "<div class=\"col-sm-12\"><h4>DAY 2: <small>Lepiney mountain refuge - Toubkal Refuge</small></h4><p>This morning you will embark on a fairly stiff climb out of the Azzadene Valley, heading towards the Toubkal Refuge where you will be spending the night. On the way you will pass back via the D’Irhoulidene waterfalls before climbing the Aguelzim Mountain pass (3,560m). Lunch will be taken in a spot with panoramic views over the Atlas Mountain Range. After taking in the scenery you’ll begin a descent to the Toubkal Mountain Refuge (Neltner Hut) at 3,200m. The dorms at the refuge tend to be crowded with other trekkers aiming to tackle Toubkal early next morning so in the summer and when the weather allows we typically camp at the Refuge.</p></div>",
+      "<div class=\"col-sm-12\"><h4>DAY 3: <small>Toubkal Summit - Imlil - Marrakech</small></h4><p>Today you will be up early for the ascent of Toubkal (4,167m). It’s a challenging trek to the summit, but, weather permitting, you will be rewarded for your efforts with incredible views over the Atlas Range and the Sahara Desert. After the glory of the summit, you will retrace your steps to the Toubkal Mountain Refuge and then follow the well-trodden path back to Imlil, passing the holy Muslim site of Sidi Charmmharouch. Once you arrive in Imlil, you will be transported back to Marrakech, arriving in the early evening.</p></div>"
+      ],
+     "Frequently_Asked_Questions":[
+        "<div class=\"panel panel-default\"><div class=\"panel-heading\"><h4 class=\"panel-title\"><a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\">What is the accommodation like during this trek?<i class=\"indicator icon_minus_alt2 pull-right\"></i></a></h4></div><div id=\"collapseOne\" class=\"panel-collapse collapse in\"><div class=\"panel-body\"><p>During this trek, we will be using mountain refuges, they offer basic shared dorms with bunk beds and passable shared bathroom facilities. There’s a common area to relax in the evening and chat with other climbers from around the world.</p><div class=\"row magnific-gallery\"><div class=\"col-md-6\"><a href=\"img/gallery/refuge.jpg\" title=\"Mouflons Refuge\"><img src=\"img/gallery/refuge.jpg\" alt=\"\" class=\"img-responsive\"></a></div></div></div></div></div>",
+       "<div class=\"panel panel-default\"><div class=\"panel-heading\"><h4 class=\"panel-title\"><a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\">What is the food like?<i class=\"indicator icon_plus_alt2 pull-right\"></i></a></h4></div><div id=\"collapseTwo\" class=\"panel-collapse collapse\"><div class=\"panel-body\"><p>Meals will be largely Moroccan based but are likely to be infused with a little European influence.<br>Example:</p><ul ><li><span>Breakfast:</span> Bread with jam, butter, boiled eggs and processed cheese, with the option of olive oil, served with mint tea, coffee and milk. And also juice, fruit and yoghurt.</li><li><span>Lunch:</span> salad, tomatoes, carrots, lentils, beans, rice or pasta, kefta (meatball tagine). fish (sardines, tuna), seasonal fruit</li><li><span>Dinner:</span> Soup, classic Morooccan tajine, couscous, olives, nuts, seasonal fruit</li></ul><div class=\"row magnific-gallery\"><div class=\"col-md-6\"><a href=\"img/gallery/salad.jpg\" title=\"Salad For Lunch\"><img src=\"img/gallery/salad.jpg\" alt=\"\" class=\"img-responsive\"></a></div></div><br><p><a href=\"food_on_trek.html\" target=\"\" class=\"btn_1_outline\">Read more aboud meals during the trek here</a></p></div></div></div>",
+      "<div class=\"panel panel-default\"><div class=\"panel-heading\"><h4 class=\"panel-title\"><a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseThree\">What is the Fitness Level for Toubkal Climb?<i class=\"indicator icon_plus_alt2 pull-right\"></i></a></h4></div><div id=\"collapseThree\" class=\"panel-collapse collapse\"><div class=\"panel-body\"><p>Mount Toubkal is a non-technical summit – You do not need to be super-fit or an expert climber, but you do need to have a good level of fitness and an appetite for adventure!<br>In summer it is accessible as long as you are reasonably fit and determined.<br>In winter you will encounter steep snowy sections where crampons and ice axes could be required; it is preferable to have prior experience using them but this is not essential as training is provided.</p></div></div></div>"
+      ]
+
     },
     {
       "userId": 5,
+
       "title": "Imlil to Setti Fadma",
       "title1": "Duration: 3 Days",
-      "link":"imlil_setti_fadma.html",
+      "body": "The trails leads through some outstandingly beutiful terrain and the views are the most far-reaching to be had in the High Atlas.",
+
+      "link":"atlas_valleys_trek2.html",
       "img":"assets/img/tours/setti_fadma.jpg",
-      "body": "The trails leads through some outstandingly beutiful terrain and the views are the most far-reaching to be had in the High Atlas."
+      "img_head":"assets/img/stti_fadma.jpg",
+      "slider_img":[
+        "assets/img/carousel/setti_fadma_1.jpg",
+        "assets/img/carousel/setti_fadma_2.jpg",
+        "assets/img/carousel/setti_fadma_3.jpg"
+      ],
+      "t1":"Imlil to Setti Fatma Traverse",
+      "t2":"3 Days/ 2 Night",
+      "text":"This three day trek from Imlil to Setti Fadma leads over two impressive passes, Tizi N'Tmatert(2279m) and Tizi N'Tacheddirt (3172m), and throught a saccesion of valleys lined by traditional villages before decending to Setti Fadma, nestling in the celebrated green Ourika Valley.",
+      "price":"180",
+      "Trek Duration":"3 days",
+      "Walking_grade":"Moderate",
+      "Availability":"This trek is available from April to October If you are travelling alone please contact us as there is often the opportunity to join a group",
+      "Accommodation":"Traditional Berber village houses",
+      "Tour_staff":[
+       "Local Guide",
+       "Cook",
+       "Muleteer/mules to carry your kit bags",
+       "Driver"
+      ],
+      "Included_meals":[
+
+        "Breakfast: 2",
+        "Lunch: 3",
+        "Dinner: 2" 
+      ],
+      "html":[
+      "<div class=\"col-sm-12\"><h4>DAY 1: <small>Imlil - Tacheddirt </small></h4><p>Depart from Imlil and head towards the beautiful valley of Tacheddirt passing by Tizi n’Tamatert (2,279m) to arrive at the village of Ouanesekra in the valley of Tacheddirt. This is where we will spend the night in a traditional Berber gîte or bivouac (About 5 hours' walk).</p></div>",
+      "<div class=\"col-sm-12\"><h4>DAY 2: <small>Tacheddirt - Timichchi</small></h4><p>Another exciting day is ahead of us! We depart from Tachdirth towards Timichi passing by the Tizi n' Ibbasen (3,172m). Afterwards we descent and pass the villages of Ibbasen and Timichchi. We spend the night in a bivouac or a traditional Berber gîte (About 6 to 7 hours' walk).</p></div>",
+      "<div class=\"col-sm-12\"><h4>DAY 3: <small>Timichchi - Setti Fatma</small></h4><p>Today we depart from Timichchi and head towards Setti Fatma. Throughout the journey will will pass through numerous Berber villages including Tiourdou, Anfli, Tadrart and Chiker. After lunch we continue via Agadir n’Aït Boulmane and on to the centre of Setti Fatma. Afterwards we return to Marrakech or, for more adventurous ones, we visit the waterfall at Setti Fatma (About 4 to 5 hours' walk).</p></div>"
+      ],
+     "Frequently_Asked_Questions":[
+"<div class=\"panel panel-default\"><div class=\"panel-heading\"><h4 class=\"panel-title\"><a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\">What is the accommodation like during this trek?<i class=\"indicator icon_minus_alt2 pull-right\"></i></a></h4></div><div id=\"collapseOne\" class=\"panel-collapse collapse in\"><div class=\"panel-body\"><p>During this treks we will be staying in a traditional Berber village houses. Depend on location, some of the properties might have simple or some outdated furniture.</p><div class=\"row magnific-gallery\"><div class=\"col-md-6\"><p> <a href=\"img/gallery/gite.jpg\" title=\"local Gite\"><img src=\"img/gallery/gite.jpg\" alt=\"\" class=\"img-responsive\"></a></p><p> <a href=\"img/gallery/gite_1.jpg\" title=\"local Gite\"><img src=\"img/gallery/gite_1.jpg\" alt=\"\" class=\"img-responsive\"></a></p></div></div></div></div></div>",
+"<div class=\"panel panel-default\"><div class=\"panel-heading\"><h4 class=\"panel-title\"><a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\">What is the food like during the hike?<i class=\"indicator icon_plus_alt2 pull-right\"></i></a></h4></div><div id=\"collapseTwo\" class=\"panel-collapse collapse\"><div class=\"panel-body\"><p>Meals will be largely Moroccan based but are likely to be infused with a little European influence.<br>Example:</p><ul><li><span>Breakfast:</span> Bread with jam, butter, boiled eggs and processed cheese, with the option of olive oil, served with mint tea, coffee and milk. And also juice, fruit and yoghurt.</li><li><span>Lunch:</span> salad, tomatoes, carrots, lentils, beans, rice or pasta, kefta (meatball tagine). fish (sardines, tuna), seasonal fruit</li><li><span>Dinner:</span> Soup, classic Morooccan tajine, couscous, olives, nuts, seasonal fruit</li></ul><div class=\"row magnific-gallery\"><div class=\"col-md-6\"><a href=\"img/gallery/salad.jpg\" title=\"Salad For Lunch\"><img src=\"img/gallery/salad.jpg\" alt=\"\" class=\"img-responsive\"></a></div></div><br><p><a href=\"food_on_trek.html\" target=\"_blank\" class=\"btn_1_outline\">Read more aboud meals during the trek here</a></p></div></div></div>",
+"<div class=\"panel panel-default\"><div class=\"panel-heading\"><h4 class=\"panel-title\"><a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseThree\">What should i bring?<i class=\"indicator icon_plus_alt2 pull-right\"></i></a></h4></div><div id=\"collapseThree\" class=\"panel-collapse collapse\"><div class=\"panel-body\"><p>Crampons and ice axes are usually required throughout the tour (depending on weather),</p><p><a href=\"kit_list_for_toubkal_climb.html\" target=\"blank\" class=\"btn_1_outline\">Read more aboud meals during the trek here</a></p></div></div></div>"
+]
+
     },
     {
       "userId": 6,
+
       "title": "Ait Bougmez Traverse",
       "title1": "Duration: 5 Days",
-      "link":"ait_bougmez_traverse.html",
+      "body": "Ait Bougmez Valley is among the most mystifying places in the mountain ranges of Atlas, leave the other places of Morocco for long vacations.",
+
+      "link":"atlas_valleys_trek2.html",
       "img":"assets/img/tours/bougmez.jpg",
-      "body": "Ait Bougmez Valley is among the most mystifying places in the mountain ranges of Atlas, leave the other places of Morocco for long vacations."
-    },
-    {
-      "userId": 7,
-      "title": "M’Goun Gorges and M’Goun summit",
-      "title1": "Duration: 7 Days",
-      "link":"m'goun_gorges_and_ighil_m'goun_summit.html",
-      "img":"assets/img/tours/m'goun.jpg",
-      "body": "The picturesque villages and green valleys of the lower reaches of this trek contract wonderfully with the remoteness of its dramatic passes and the approach to the summit of M'goun..."
-    },
-    {
-      "userId": 8,
-      "title": "Toubkal Winter Climb",
-      "title1": "Duration: 3 Days",
-      "link":"3_day_toubkal_winter_climb.html",
-      "img":"assets/img/tours/3_day_toubkal_winter_climb.jpg",
-      "body": "Im winter, Mount Toubkal and its surrounding peaks provides some of the most spectacular winter trekking on earth."
-    },
-    {
-      "userId": 9,
-      "title": "Toubkal Circuit Trek",
-      "title1": "Duration: 6 Days",
-      "link":"m'goun_gorges_and_ighil_m'goun_summit.html",
-      "img":"assets/img/tours/circuit.jpg",
-      "body": "The views. not only from the summit of Toubkal, but also from the three major approach passes are quite atunning."
-    },
-    {
-      "userId": 10,
-      "title": "Ait Bougmez and Sermt Valley Trek",
-      "title1": "Duration: 3 Days",
-      "link":"ait_bougmez%20_3_days.html",
-      "img":"assets/img/tours/bougmez_1.jpg",
-      "body": "On this hike, you’ll find a patchwork of green pastures, fertile lands, and windy valleys surrounded by peaks that higher than usual (including Mgoun, the second-highest mountain in Morocco)"
+      "img_head":"assets/img/ait_bougmez_travers.jpg",
+      "slider_img":[
+        "assets/img/carousel/setti_fadma_1.jpg",
+        "assets/img/carousel/setti_fadma_2.jpg",
+        "assets/img/carousel/setti_fadma_3.jpg"
+      ],
+      "t1":"Imlil to Setti Fatma Traverse",
+      "t2":"3 Days/ 2 Night",
+      "text":"This three day trek from Imlil to Setti Fadma leads over two impressive passes, Tizi N'Tmatert(2279m) and Tizi N'Tacheddirt (3172m), and throught a saccesion of valleys lined by traditional villages before decending to Setti Fadma, nestling in the celebrated green Ourika Valley.",
+      "price":"180",
+      "Trek Duration":"3 days",
+      "Walking_grade":"Moderate",
+      "Availability":"This trek is available from April to October If you are travelling alone please contact us as there is often the opportunity to join a group",
+      "Accommodation":"Traditional Berber village houses",
+      "Tour_staff":[
+       "Local Guide",
+       "Cook",
+       "Muleteer/mules to carry your kit bags",
+       "Driver"
+      ],
+      "Included_meals":[
+
+        "Breakfast: 2",
+        "Lunch: 3",
+        "Dinner: 2" 
+      ],
+      "html":[
+      "<div class=\"col-sm-12\"><h4>DAY 1: <small>Imlil - Tacheddirt </small></h4><p>Depart from Imlil and head towards the beautiful valley of Tacheddirt passing by Tizi n’Tamatert (2,279m) to arrive at the village of Ouanesekra in the valley of Tacheddirt. This is where we will spend the night in a traditional Berber gîte or bivouac (About 5 hours' walk).</p></div>",
+      "<div class=\"col-sm-12\"><h4>DAY 2: <small>Tacheddirt - Timichchi</small></h4><p>Another exciting day is ahead of us! We depart from Tachdirth towards Timichi passing by the Tizi n' Ibbasen (3,172m). Afterwards we descent and pass the villages of Ibbasen and Timichchi. We spend the night in a bivouac or a traditional Berber gîte (About 6 to 7 hours' walk).</p></div>",
+      "<div class=\"col-sm-12\"><h4>DAY 3: <small>Timichchi - Setti Fatma</small></h4><p>Today we depart from Timichchi and head towards Setti Fatma. Throughout the journey will will pass through numerous Berber villages including Tiourdou, Anfli, Tadrart and Chiker. After lunch we continue via Agadir n’Aït Boulmane and on to the centre of Setti Fatma. Afterwards we return to Marrakech or, for more adventurous ones, we visit the waterfall at Setti Fatma (About 4 to 5 hours' walk).</p></div>"
+      ],
+     "Frequently_Asked_Questions":[
+"<div class=\"panel panel-default\"><div class=\"panel-heading\"><h4 class=\"panel-title\"><a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\">What is the accommodation like during this trek?<i class=\"indicator icon_minus_alt2 pull-right\"></i></a></h4></div><div id=\"collapseOne\" class=\"panel-collapse collapse in\"><div class=\"panel-body\"><p>During this treks we will be staying in a traditional Berber village houses. Depend on location, some of the properties might have simple or some outdated furniture.</p><div class=\"row magnific-gallery\"><div class=\"col-md-6\"><p> <a href=\"img/gallery/gite.jpg\" title=\"local Gite\"><img src=\"img/gallery/gite.jpg\" alt=\"\" class=\"img-responsive\"></a></p><p> <a href=\"img/gallery/gite_1.jpg\" title=\"local Gite\"><img src=\"img/gallery/gite_1.jpg\" alt=\"\" class=\"img-responsive\"></a></p></div></div></div></div></div>",
+"<div class=\"panel panel-default\"><div class=\"panel-heading\"><h4 class=\"panel-title\"><a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\">What is the food like during the hike?<i class=\"indicator icon_plus_alt2 pull-right\"></i></a></h4></div><div id=\"collapseTwo\" class=\"panel-collapse collapse\"><div class=\"panel-body\"><p>Meals will be largely Moroccan based but are likely to be infused with a little European influence.<br>Example:</p><ul><li><span>Breakfast:</span> Bread with jam, butter, boiled eggs and processed cheese, with the option of olive oil, served with mint tea, coffee and milk. And also juice, fruit and yoghurt.</li><li><span>Lunch:</span> salad, tomatoes, carrots, lentils, beans, rice or pasta, kefta (meatball tagine). fish (sardines, tuna), seasonal fruit</li><li><span>Dinner:</span> Soup, classic Morooccan tajine, couscous, olives, nuts, seasonal fruit</li></ul><div class=\"row magnific-gallery\"><div class=\"col-md-6\"><a href=\"img/gallery/salad.jpg\" title=\"Salad For Lunch\"><img src=\"img/gallery/salad.jpg\" alt=\"\" class=\"img-responsive\"></a></div></div><br><p><a href=\"food_on_trek.html\" target=\"_blank\" class=\"btn_1_outline\">Read more aboud meals during the trek here</a></p></div></div></div>",
+"<div class=\"panel panel-default\"><div class=\"panel-heading\"><h4 class=\"panel-title\"><a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseThree\">What should i bring?<i class=\"indicator icon_plus_alt2 pull-right\"></i></a></h4></div><div id=\"collapseThree\" class=\"panel-collapse collapse\"><div class=\"panel-body\"><p>Crampons and ice axes are usually required throughout the tour (depending on weather),</p><p><a href=\"kit_list_for_toubkal_climb.html\" target=\"blank\" class=\"btn_1_outline\">Read more aboud meals during the trek here</a></p></div></div></div>"
+]
+
     }
   ]

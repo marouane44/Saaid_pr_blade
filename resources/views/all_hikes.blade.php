@@ -34,8 +34,9 @@
     <div class="col-md-4 col-sm-6 wow fadeIn animated" data-wow-delay="0.2s">
         <div class="img_wrapper">
             <div class="img_container">
-                <a href="hikes_in_imlil.html">
-                    <img src={{$uniqueUserId['img']}} width="800" height="533" class="img-responsive" alt="">
+              <!--<a id="3lah_tkhdm" href="{{--route($uniqueUserId['link'],$uniqueUserId['userId'])--}}">-->  
+                <a id="3lah_tkhdm" href="{{route($uniqueUserId['link'],$uniqueUserId['userId'])}}">                  
+                      <img src={{$uniqueUserId['img']}} width="800" height="533" class="img-responsive" alt="">
                     <div class="short_info">
                         <h3>{{$uniqueUserId['title']}}</h3>
                         <em>{{$uniqueUserId['title1']}}</em>
@@ -72,10 +73,18 @@
 @endsection
 @section('js')
 <!--Internal  Chart.bundle js -->
-<script src="{{URL::asset('assets/plugins/jquery.selectbox-0.2.js')}}"></script>
+{{-- <script src="{{URL::asset('assets/plugins/jquery.selectbox-0.2.js')}}"></script> --}}
 
 
 <script>
     $(".selectbox").selectbox();
 </script>
+
+<script>
+    function myFunction() {
+       
+        var value = $('#3lah_tkhdm').data('value');
+        alert("the value is "+value);
+    }
+    </script>
 @endsection

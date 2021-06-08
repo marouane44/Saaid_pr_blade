@@ -6,7 +6,7 @@
 <link rel="apple-touch-icon" sizes="72x72" href="{{URL::asset('assets/img/apple-touch-icon-72x72-precomposed.png')}}" type="image/x-icon"/>
 <link rel="apple-touch-icon" sizes="114x114" href="{{URL::asset('assets/img/apple-touch-icon-114x114-precomposed.png')}}" type="image/x-icon"/>
 <link rel="apple-touch-icon" sizes="114x114" href="{{URL::asset('assets/img/apple-touch-icon-144x144-precomposed.png')}}" type="image/x-icon"/>
-
+@yield('css')
 	<!-- GOOGLE WEB FONT -->
     <link rel="stylesheet"  href="{{URL::asset('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Satisfy')}}" />
 
